@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "彼女とTIP ON DUO",
+  "base_artist": "今井美樹",
+  "createdAt": "2025-12-01T13:15:45.159716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彼女とTIP ON DUO",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/01_彼女とTIP_ON_DUO_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彼女とTip On Duo",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/02_彼女とTip_On_Duo_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彼女とTIP ON DUO",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/03_彼女とTIP_ON_DUO_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彼女とTIP ON DUO",
+      "artist": "今井美樹",
+      "has_synced": false,
+      "path": "select/04_彼女とTIP_ON_DUO_今井美樹.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼女とTIP ON DUO",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_01_彼女とTIP_ON_DUO_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "彼女とTip On Duo",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_02_彼女とTip_On_Duo_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "彼女とTip On Duo",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_03_彼女とTip_On_Duo_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "彼女とTip On Duo",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_04_彼女とTip_On_Duo_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "彼女とTip On Duo",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_05_彼女とTip_On_Duo_今井_美樹.txt"
+    }
+  ]
+}
